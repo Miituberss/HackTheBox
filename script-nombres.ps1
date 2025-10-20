@@ -6,3 +6,5 @@ $resultado = $string.ToLower().Replace(" ", "-")
 
 # Mostrar el resultado
 Write-Host "Resultado: $resultado"
+
+read-host
