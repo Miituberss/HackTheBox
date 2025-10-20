@@ -1,9 +1,3 @@
----
-title: Uso del Metasploit Framework - Resumen del Módulo HTB
-module: Metasploit Framework
-category: Exploitation
-tags: [Metasploit, MSFconsole, Exploit, Payload, Meterpreter, Pivoting, Post-Exploitation, msfvenom]
----
 # 00_Overview
 
 **Metasploit Framework (MSF)** es un *framework* de código abierto fundamental en el *pentesting* y la ciberseguridad. Está diseñado para asistir en la investigación de vulnerabilidades, el desarrollo de *exploits* y las pruebas de penetración.
